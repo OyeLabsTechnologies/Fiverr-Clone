@@ -56,7 +56,7 @@ Fiverr clone by Oyelabs lets you launch a freelance marketplace with end-to-end 
 
 <p>
   Reach out to us at 
-  <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a> or visit 
+  <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a> or visit 
   <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> 
   to get started. Let’s build your next big venture together!
 </p>
