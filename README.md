@@ -13,7 +13,10 @@
   <h3 align="center">Launch Fiverr Clone</h3>
 
   <p align="center">
-    A Fiverr clone app made with android native (java) and firebase
+    A Fiverr Clone App built with PHP Laravel & Flutter 3.10.6
+    <br />
+    <a href="https://oyelabs.com/fiverr-clone/"><strong>Explore the Product »</strong></a>
+    <br />
     <br />
 
 ### How to Launch Your Fiverr Clone: A Step-by-Step Guide ###
@@ -39,7 +42,7 @@ Your platform should be feature-rich to attract users and keep them engaged. Key
 - **Order & Project Management** – Track multiple projects easily.  
 - **Messaging & Notifications** – Keep freelancers and clients connected.  
 
-These features transform your marketplace into a professional, trustworthy, and user-friendly hub.  
+These features turn your marketplace into a reliable, professional, and easy-to-use platform.
 
 ***Step 3: Tell Your Platform’s Story***  
 
@@ -51,7 +54,7 @@ Use industry statistics and insights to strengthen credibility. Show how freelan
 
 ***Step 5: Offer Demos and Support***  
 
-Nothing convinces users better than experience. Let new users explore your platform with a demo or free trial. Show them how to post gigs, order services, and track projects. **We’re here 365 days a year with updates and support, so your platform never misses a beat.**  
+Nothing convinces users better than experience. Let new users explore your platform with a demo or free trial. Show them how to post gigs, order services, and track projects. 
 
 ---
 
