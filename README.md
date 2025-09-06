@@ -1,62 +1,64 @@
-# Fiverr-Clone
-Fiverr clone by Oyelabs lets you launch a freelance marketplace with end-to-end customization and scalability.
-<h3>MOONLANCER – Build a Scalable Freelance Marketplace Like Fiverr</h3>
+![Version](https://img.shields.io/badge/version-4.0.0-blue.svg?cacheSeconds=2592000)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oyelabs?lang=en)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/myoyelabs/)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@oyelabs9119?si=jpMaBUfNigpVCjuf)
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://oyelabs.com/indriver-clone-app-development/">
+    <img src="https://oyelabs.com/wp-content/uploads/2024/12/Readymade-Fiverr-Clone-Script.jpg" alt="Logo" width="120" height="120">
+  </a>
+
+  <h3 align="center">Launch Fiverr Clone</h3>
+
+  <p align="center">
+    A Fiverr clone app made with android native (java) and firebase
+    <br />
+
+### How to Launch Your Fiverr Clone: A Step-by-Step Guide ###
+
+Freelancing has taken the world by storm. From graphic design and writing to digital marketing and coding, millions of people rely on online marketplaces to offer and find services. A **Fiverr Clone** gives you the chance to create your own platform where freelancers and clients meet directly, making work simple, fast, and trustworthy.  
+
+If you’re an entrepreneur looking to launch a freelance marketplace, here’s how to make it successful.  
+
+***Step 1: Understand the Platform***  
+
+A Fiverr Clone connects **freelancers** with **clients**. Freelancers create gigs showcasing their skills, pricing, and delivery time. Clients browse, order services, and leave reviews. This builds trust, encourages repeat business, and creates a healthy marketplace.  
+
+Knowing this process is key before building. Every feature should focus on making the platform seamless for both freelancers and clients.  
+
+***Step 2: Include Essential Features***  
+
+Your platform should be feature-rich to attract users and keep them engaged. Key features include:  
+
+- **Gig Listings** – Display services with clear details and images.  
+- **Secure Payment System** – Safe payment options for clients and freelancers.  
+- **Custom Profiles & Portfolios** – Freelancers can showcase their work.  
+- **Ratings & Reviews** – Honest feedback builds credibility.  
+- **Order & Project Management** – Track multiple projects easily.  
+- **Messaging & Notifications** – Keep freelancers and clients connected.  
+
+These features transform your marketplace into a professional, trustworthy, and user-friendly hub.  
+
+***Step 3: Tell Your Platform’s Story***  
+
+Your Fiverr Clone isn’t just a website, it’s a solution. Highlight how it helps freelancers earn and how clients can quickly find the right talent. Use blogs, social media, or launch campaigns to show real success stories and explain why your platform is different from others.  
+
+***Step 4: Build Trust with Insights***  
+
+Use industry statistics and insights to strengthen credibility. Show how freelancing is growing worldwide, the demand for remote services, and how your platform makes transactions safe and simple. Facts and proof make your marketplace reliable.  
+
+***Step 5: Offer Demos and Support***  
+
+Nothing convinces users better than experience. Let new users explore your platform with a demo or free trial. Show them how to post gigs, order services, and track projects. **We’re here 365 days a year with updates and support, so your platform never misses a beat.**  
+
+---
+
+Launching a Fiverr Clone can be your ticket to building a thriving freelance marketplace. Focus on the right features, provide excellent support, and create a seamless experience for users.  
+
+### 🌐 Sources  
+
+[Fiverr Clone – Launch Your Own Freelance Marketplace](https://oyelabs.com/fiverr-clone/)
 <p>
-  <strong>MoonLancer</strong> by Oyelabs is a robust 
-<a href="https://oyelabs.com/fiverr-clone/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">Fiverr Clone</a> 
-built for entrepreneurs who want to launch a feature-rich, fully customizable freelance services platform. 
-Whether you're targeting a niche market or global talent, MoonLancer empowers you to bring your vision 
-to life with a seamless experience for both buyers and freelancers.
-</p>
 
-<p>
-  Developed using Laravel for the backend and Flutter for mobile apps, MoonLancer offers a high-performance, 
-  scalable solution to help startups and growing businesses enter the booming gig economy. 
-  While inspired by the Fiverr model, this script is flexible enough to adapt to your unique branding, 
-  monetization approach, and operational structure.
-</p>
-
-<h3>Why Choose MoonLancer?</h3>
-
-<p>
-  There are many freelance marketplace scripts out there, but few rival the flexibility, security, 
-  and user-centric features MoonLancer offers. With ongoing updates, hands-on support, 
-  and complete customizability, MoonLancer is more than just a Fiverr clone — it’s your partner 
-  in building a successful gig platform. 
-  <a href="mailto:grow@oyelabs.com">Contact us</a> to see how MoonLancer can drive your freelance venture forward.
-</p>
-
-<h3>Key Features That Set MoonLancer Apart</h3>
-
-<ul>
-  <li>Fully responsive and modern design</li>
-  <li>Profile-based service listings for freelancers</li>
-  <li>Service categories, subcategories, and smart search</li>
-  <li>Order management and milestone tracking</li>
-  <li>Real-time chat and messaging</li>
-  <li>Review and rating system for users</li>
-  <li>Secure multi-gateway payment integration</li>
-  <li>Admin and sub-admin role management</li>
-  <li>Service fee control and commission system</li>
-  <li>Promo codes and referral program</li>
-  <li>Dispute management and resolution tools</li>
-  <li>SEO-ready and optimized for performance</li>
-  <li>Multi-language and multi-currency support</li>
-  <li>GDPR-compliant and scalable architecture</li>
-  <li>Detailed reporting and analytics dashboard</li>
-</ul>
-
-<p>
-  MoonLancer is more than just a script — it’s a launch-ready platform designed to accelerate your success 
-  in the freelance economy.
-</p>
-
-<h3>Planning to launch your own freelance marketplace?</h3>
-
-<p>
-  Reach out to us at 
-  <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a> or visit 
-  <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> 
-  to get started. Let’s build your next big venture together!
-</p>
