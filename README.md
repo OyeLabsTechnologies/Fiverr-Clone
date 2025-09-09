@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://oyelabs.com/indriver-clone-app-development/">
+  <a href="https://oyelabs.com/fiverr-clone/">
     <img src="https://oyelabs.com/wp-content/uploads/2024/12/Readymade-Fiverr-Clone-Script.jpg" alt="Logo" width="120" height="120">
   </a>
 
